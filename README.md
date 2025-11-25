@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @alinadahani
-- 👀 I’m interested in Data Science , Artificial Intelligence , AR/VR and Machine learning
-- 🌱 I’m currently learning Advanced data science with Python
-- 💞️ I’m looking to collaborate on real time projects
+
 - 📫 How to reach me @dahanialina@gmail.com
 
 <!---
